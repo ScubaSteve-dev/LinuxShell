@@ -1,5 +1,6 @@
 # LinuxShell
 About: This program Creates a Shell with a Linux enviroment.
+
 Program Walkthrough:
 First we print a prompt letting the know that we are in our new shell. Then we readCommand() method call. The readCommand(char *buffer) method calls fgets() which blocks the process until the user enters input into the command prompt, and then loads the line of characters into a buffer variable “commandLine”. 
 parseCommand & Command_t structure
