@@ -1,5 +1,5 @@
 # LinuxShell
-About: This program Creates a Shell with a Linux enviroment. This Project was completed by a group of two; BeyJohn and Myself.
+About: This program Creates a Shell within a Linux enviroment. This Project was completed by a group of two; BeyJohn and Myself.
 
 Program Walkthrough:
 
